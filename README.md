@@ -1,0 +1,1 @@
+This project uses Python and OpenCV for face detection and a trained CNN model for binary emotion classification. Ideal for educational purposes, demos, or as a foundation for more advanced emotion recognition systems.
