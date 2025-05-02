@@ -1,0 +1,45 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# PyCharm-specific files (Community Edition still generates `.idea`)
+.idea/
+*.iml
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data and model files (too large for Git)
+*.csv
+*.tsv
+*.npy
+*.npz
+*.h5
+*.hdf5
+*.pkl
+*.pt
+*.pth
+*.onnx
+*.ckpt
+*.joblib
+*.tfrecord
+
+# TensorBoard and logs
+logs/
+runs/
+events.out.*
+*.log
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables and secrets
+.env
